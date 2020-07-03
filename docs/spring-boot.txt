@@ -34,5 +34,6 @@ https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-
 http://localhost:9090/actuator/beans
 
 
+
 Trainer number:9391329788
 sbtalk@gmail.com
